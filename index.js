@@ -1,10 +1,3 @@
-// var kiosk={
-//     price:30.00,
-//     fruitsname:"oranges",
-//     quantity:2
-// }
-// console.log(kiosk.price* kiosk.quantity)
-
 class fruits{
     constructor(price){
         this.price=price
